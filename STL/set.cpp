@@ -35,3 +35,16 @@ int main()
 	cout<<"Not Found\n";
 	return 0;
 }
+/*
+output:
+
+-3 
+1 
+2 
+4 
+5 
+10 
+Found 5
+Not Found
+
+*/
